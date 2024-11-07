@@ -5,10 +5,10 @@
 }
 
 :root {
-  --white: #FFFFFF;
+  --white: #ffffff;
   --black: #303030;
-  --offWhite: #F9F9F9;
-  --orange: #C07212;
+  --offWhite: #f9f9f9;
+  --orange: #c07212;
 }
 
 /* HEADER */
@@ -44,7 +44,6 @@ header {
 .info p {
   font-size: 20px;
 }
-
 
 /* MAIN */
 main {
@@ -109,6 +108,6 @@ button {
 button:hover {
   transform: translateY(-7px);
   box-shadow: 0px 15px 20px #05103081;
-  transition-duration: .5s;
+  transition-duration: 0.5s;
   border-radius: 40px;
 }
